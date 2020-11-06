@@ -1,0 +1,16 @@
+
+
+  509  ls
+  510  mkdir fweb
+  511  git clone https://github.com/KK-MS/fweb.git
+  512  ls
+  513  cd fweb/
+  514  ls
+  515  flutter create .
+  516   flutter config --enable-web
+  517  flutter run -d chrome
+  518  ls
+  519  git add *
+  520  ls
+  521  git status .
+  522  history
